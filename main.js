@@ -12,3 +12,5 @@ const createLines = (line) => {
 }
 
 div.innerHTML = createLines(testLine);
+
+// 結論：サーバー側の TXT ファイルを読み込ませるには、AJAX が必要
